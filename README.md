@@ -1,2 +1,3 @@
 # hello-world
-an uninspiring repository
+hello.
+
